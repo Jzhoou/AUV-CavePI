@@ -1,0 +1,10 @@
+# Local reference materials are intentionally not versioned.
+/参考资料/
+
+# SolidWorks temporary lock files.
+~$*
+
+# Operating-system metadata.
+.DS_Store
+Thumbs.db
+Desktop.ini
