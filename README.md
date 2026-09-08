@@ -33,7 +33,7 @@ CavePI 采用 **160 × 300 mm 亚克力圆筒密封舱**、**3 个推进器**与
 ## 已验证结果
 
 - **负压气密：** 以 15 inHg 为初始真空度保压 15 分钟，读数维持在 14–15 inHg。
-- **分段浅水水密：** 受水缸尺寸限制，头部与尾部分别浸水 20 分钟；检查时舱内指示纸保持干燥。
+- **分段浅水水密：** 受水缸尺寸限制，头部与尾部分别浸水 20 分钟；检查时舱内纸巾保持干燥。
 
 以上结果仅对应当时的测试条件和装配状态。
 
@@ -57,4 +57,4 @@ CavePI 采用 **160 × 300 mm 亚克力圆筒密封舱**、**3 个推进器**与
 
 **AUV-CavePI is an independently developed underwater-robot prototype.** It uses a 160 × 300 mm acrylic pressure enclosure, three thrusters, a 14.8 V 4S power source, and an integrated slide-out internal support structure. The repository documents CAD iterations, physical assembly, power-distribution planning, and diagnosis and rework of a leak around cable-penetration bolts.
 
-The verified results are deliberately limited to the recorded test conditions: the enclosure held an initial 15 inHg vacuum for 15 minutes while remaining between 14 and 15 inHg; the head and tail were then immersed separately for 20 minutes, and the internal indicator paper remained dry. Full simultaneous immersion of the entire vehicle, long-duration watertightness, propulsion, attitude control, and depth-hold control have **not** yet been validated.
+The verified results are deliberately limited to the recorded test conditions: the enclosure held an initial 15 inHg vacuum for 15 minutes while remaining between 14 and 15 inHg; the head and tail were then immersed separately for 20 minutes, and the paper towel inside remained dry. Full simultaneous immersion of the entire vehicle, long-duration watertightness, propulsion, attitude control, and depth-hold control have **not** yet been validated.
