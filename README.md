@@ -2,7 +2,9 @@
 
 当前重点是把机械结构、电源与密封方案推进到可复现、可检查的实物阶段。仓库保留 CAD、装配、电源管理、问题定位与测试记录，并明确区分已经验证的结果和仍待验证的能力。
 
-![CavePI 原型](docs/images/cavepi-prototype.jpg)
+| 整机俯视 | 尾部与接线布局 |
+| --- | --- |
+| ![CavePI 第一版原型整机俯视](docs/images/cavepi-prototype.jpg) | ![CavePI 第一版原型尾部与接线布局](docs/images/cavepi-rear.jpg) |
 
 ## 项目概览
 
